@@ -86,4 +86,4 @@ hsh main.c shell.c test_ls_2
 hsh main.c shell.c test_ls_2
 $`
 ## Authors 
-Edlawit G/hana [EdlawitG], Abdulmalik sultan [abivmsul]
+Betelhem mesele,bejister
